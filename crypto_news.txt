@@ -1,0 +1,602 @@
+**Solana CME futures tip impending US ETF approvals — Exec**
+
+The upcoming launch of Solana (SOL) futures on the Chicago Mercantile Exchange (CME), a US derivatives exchange, signals that the first US SOL exchange-traded fund (ETF) listings are coming soon, Chris Chung, founder of Solana-based swap platform Titan, told …
+
+Source: Cointelegraph
+
+**GENIUS Act Clears Senate Banking Committee: What It Means For Stablecoins**
+
+Senator Hagerty’s GENIUS Act advances out of banking committee with bipartisan support despite Elizabeth Warren’s warnings about crypto risks and consumer protection concerns.
+
+Source: Forbes
+
+**Recession Fears and Elon Musk Batter Trump’s Approval Rating**
+
+Trump job-approval ratings are being hammered by a plunging stock market, rising recession fears, and the Elon Musk DOGE rampage.
+
+Source: New York Magazine
+
+**Trades Involving Locked Cryptocurrency Tokens Are Causing a Fuss**
+
+
+
+Source: Biztoc.com
+
+**Coinbase CEO: US Bitcoin Reserve Shift Sparks Global Crypto Adoption**
+
+According to Brian Armstrong, CEO of Coinbase, more governments are beginning to recognize cryptocurrencies. He made this disclosure as the US government establishes a Strategic Bitcoin Reserve to bolster its holdings in digital assets. Related Reading: Metap…
+
+Source: Bitcoinist
+
+**This Week in B2B: Entering an Age of Cross-Border Intelligence**
+
+In 2025, B2B payments are no longer just transactions but a strategic asset. But despite ongoing innovation and the acceleration of digital growth, one of the payment industry’s biggest challenges remains: how to handle global payments efficiently. For decade…
+
+Source: pymnts.com
+
+**Stablecoin Bill Heads to Senate After Vote in Banking Committee**
+
+A stablecoin bill, the GENIUS Act, is headed to the full Senate after being advanced by an 18-6 vote in the Senate Banking Committee. The Thursday (March 13) vote puts bill on a “fast track” in the Senate, as it is a priority of President Donald Trump, Bloomb…
+
+Source: pymnts.com
+
+**Bitcoin, Ethereum, Dogecoin Decline, XRP Clinging On As Traders Wargame Bear Market Scenarios**
+
+Cryptocurrencies saw another day of bearish price action on Thursday, with only XRP displaying relative strength.
+Cryptocurrency
+Price 
+Gains +/-
+Bitcoin (CRYPTO: BTC)
+ $80,353.45
+-3%
+Ethereum (CRYPTO: ETH)
+ $1,852.08
+-1.5%
+Solana (CRYPTO: SOL)
+ $121.79
+-2.4%…
+
+Source: Biztoc.com
+
+**21Shares to Liquidate Two ETFs**
+
+NEW YORK, NY, March 13, 2025 – 21Shares US LLC ("21Shares"), an affiliate of 21Shares AG, one of the world’s largest issuers of crypto exchange traded funds (ETFs), today announced the scheduled liquidation of two bitcoin futures and ethereum futures ETFs (th…
+
+Source: GlobeNewswire
+
+**crypto-candle-fetcher 0.1.6**
+
+A Python library for fetching OHLC data from multiple cryptocurrency exchanges.
+
+Source: Pypi.org
+
+**Argentina seeks arrest of U.S. crypto figure tied to Melania and Milei cryptocurrencies**
+
+An Argentine prosecutor asked a judge on Thursday to issue an Interpol “Red Notice”—a sweeping arrest request—for Hayden Davis, who claims to be behind the launch of a memecoin that has Bitcoin reserve, launched his own memecoin in January. Trump’s cryptocurr…
+
+Source: Biztoc.com
+
+**AML Bitcoin creator convicted of wire fraud, money laundering**
+
+The founder of a cryptocurrency exchange whose namesake was tied to Anti-Money Laundering (AML) was found guilty of wire fraud and money laundering in a California court.In a March 12 trial in the US District Court for the Northern District of California, a j…
+
+Source: Cointelegraph
+
+**crypto-candle-fetcher 0.1.5**
+
+A Python library for fetching OHLC data from multiple cryptocurrency exchanges.
+
+Source: Pypi.org
+
+**XYZ DEADLINE ALERT: Block, Inc. (XYZ) Investors with Losses Encouraged to Contact Hagens Berman Before Mar. 18th Deadline in Securities Class Action**
+
+SAN FRANCISCO, March 13, 2025 (GLOBE NEWSWIRE) -- Investors in Block, Inc. (NYSE: SQ) n/k/a (NYSE: XYZ) began to learn of potentially adverse information about the company and its Square and Cash App platforms on Mar. 23, 2023, when Hindenburg Research publis…
+
+Source: GlobeNewswire
+
+**crypto-candle-fetcher 0.1.4**
+
+A Python library for fetching OHLC data from multiple cryptocurrency exchanges.
+
+Source: Pypi.org
+
+**crypto-candle-fetcher 0.1.3**
+
+A Python library for fetching OHLC data from multiple cryptocurrency exchanges.
+
+Source: Pypi.org
+
+**Block, Inc. Investors: Please contact the Portnoy Law Firm to recover your losses. March 18, 2025 Deadline to file Lead Plaintiff Motion**
+
+Investors can contact the law firm at no cost to learn more about recovering their losses  LOS ANGELES, March  13, 2025  (GLOBE NEWSWIRE) -- The...
+
+Source: GlobeNewswire
+
+**crypto-candle-fetcher 0.1.2**
+
+A Python library for fetching OHLC data from multiple cryptocurrency exchanges.
+
+Source: Pypi.org
+
+**Crypto Exchange Garantex Co-Founder Arrested In India Over Extradition Request**
+
+Authorities in India have apprehended Aleksej Besciokov, the alleged co-founder of Garantex, a cryptocurrency exchange reportedly implicated in “extensive money laundering activities (MLA).”  $60 Billion In Transactions Linked To Criminal Activity Besciokov, …
+
+Source: newsBTC
+
+**crypto-candle-fetcher 0.1.1**
+
+A Python library for fetching OHLC data from multiple cryptocurrency exchanges.
+
+Source: Pypi.org
+
+**Trump Family Has Reportedly Explored Cashing in on Controversial Crypto Exchange**
+
+The Trump family’s World Liberty Financial has discussed a deal with the crypto company Binance, The Wall Street Journal and Bloomberg report.
+
+Source: Rolling Stone
+
+**crypto-candle-fetcher 0.1.0**
+
+A Python library for fetching OHLC data from multiple cryptocurrency exchanges.
+
+Source: Pypi.org
+
+**crypto-candle-fetcher added to PyPI**
+
+A Python library for fetching OHLC data from multiple cryptocurrency exchanges.
+
+Source: Pypi.org
+
+**$1,500,000,000,000 Asset Manager Franklin Templeton Files for XRP ETF**
+
+The asset management titan Franklin Templeton hopes to launch an exchange-traded fund (ETF) that will track the price of the fourth-largest cryptocurrency by market cap. On Tuesday, the financial services firm with $1.5 trillion in assets under management (AU…
+
+Source: The Daily Hodl
+
+**Tulips and Bitcoin**
+
+Harlan Boyles is rolling over in his grave as some want the state retirement system to invest in crypto-mania.
+
+Source: Ncspin.com
+
+**App Allows You To Report Illegals In Real Time, Earn Cryptocurrency**
+
+ICERAID.US, a new interactive app operating on the blockchain, now lets everyday American citizens to report illegal immigrants and illegal activity in real-time. According to their website… “ICERAID is a GovFi protocol that delegates intelligence gathering t…
+
+Source: Freerepublic.com
+
+**Pundit Foresees Major Institutional Shift Toward XRP Beyond Bitcoin and Ether**
+
+This stance comes amid increasing institutional interest in XRP, as evidenced by a growing number of ETF filings.
+
+Source: ZyCrypto
+
+**Solana Price Crash To $90? Why A 26% Decline Could Rock This Crypto**
+
+The Solana price is seemingly on the verge of another major crash, as an analyst forecasts a correction to $90. Given the cryptocurrency’s recent slow momentum due to the ongoing market letdown, an additional 26% decline to new lows could significantly impact…
+
+Source: newsBTC
+
+**Binance Co-Founder Reacts to Report of Possible Deal with Trump Family**
+
+Binance co-founder Changpeng Zhao wrote on social media platform X about a Wall Street Journal report that the Trump family is exploring a deal.
+
+Source: Newsweek
+
+**How Web3 Can Raise Customer Engagement in Rewards Programs**
+
+Most consumers are members of loyalty or rewards programs, whether for supermarkets, hotels, airlines, car rental companies, retailers or coffee shops. But these businesses, after enticing consumers to sign up to get a freebie, infrequently or even maybe neve…
+
+Source: pymnts.com
+
+**SEC considers classifying XRP as commodity in settlement talks with Ripple**
+
+Reclassifying XRP as a commodity could reshape regulatory frameworks, influencing future crypto asset classifications and market dynamics.
+The post SEC considers classifying XRP as commodity in settlement talks with Ripple appeared first on Crypto Briefing.
+
+Source: Crypto Briefing
+
+**$3 XRP Price Explosion In The Cards As Ripple Taps UAE’s Thriving $40 Billion Cross-Border Payments Market**
+
+Ripple, a leading provider of enterprise blockchain and crypto solutions, announced Thursday that it had bagged full regulatory approval from the Dubai Financial Services Authority (DFSA) to offer cross-border crypto payment services in the United Arab Emirat…
+
+Source: ZyCrypto
+
+**Bitcoin's Role in DeFi Is 'Untapped Opportunity,' Binance Research Says**
+
+The Bitcoin network is evolving into a wider DeFi ecosystem, the report said.
+
+Source: CoinDesk
+
+**Cryptocurrency's transparency is a mirage: New research shows a small group of insiders influence its value**
+
+United States President Donald Trump recently announced the U.S. would establish a strategic cryptocurrency reserve of Bitcoin, Ether, Ripple, Solana and Cardano. This move, he said, would make the U.S. "the crypto capital of the world."
+
+Source: Tech Xplore
+
+**AML Bitcoin Creator Found Guilty In Pump-and-Dump Case Linked to 'Casino Jack'**
+
+A jury in California convicted Rowland Marcus Andrade of wire fraud and money laundering in connection with the sale of AML Bitcoin.
+
+Source: CoinDesk
+
+**Robinhood lists PENGU, POPCAT amid crypto ramp-up**
+
+Robinhood has listed memecoins Pengu (PENGU), Pnut (PNUT) and Popcat (POPCAT) as the online brokerage doubles down on cryptocurrency trading, it said on March 13. The listings mark Robinhood’s latest effort to expand its crypto offerings and compete with incu…
+
+Source: Cointelegraph
+
+**CZ Refutes Claims of Trump Family’s Talks on Binance.Us Investment**
+
+BNB surged by approximately 7.40% on Thursday following reports that the Trump family has been exploring a potential investment in Binance.US.
+
+Source: ZyCrypto
+
+**30 Remote Job Scams To Look Out For In 2025**
+
+If you're looking for remote jobs, you need to recognize job scams and protect yourself. Here are 30 job scams of 2025 and how to ensure you're not the next victim.
+
+Source: Forbes
+
+**Coldware Becomes The Only Layer 1 Holding Value Against Bitcoin, Ether During Market Dump**
+
+The cryptocurrency market is no stranger to volatility, and recent market conditions have put several major cryptocurrencies to the test. Ethereum (ETH), which had been showing promise, has struggled to hold support levels against Bitcoin (BTC) as both assets…
+
+Source: ZyCrypto
+
+**‘Many more’ interested in a Bitcoin Reserve – How Trump has carved crypto’s future**
+
+Is Bitcoin the ultimate hedge against economic turmoil? Deutsche Bank seems to think so.
+
+Source: Ambcrypto.com
+
+**SEC Postpones Decision to Either Approve or Disapprove Grayscale’s XRP ETF Application to May**
+
+The U.S. Securities and Exchange Commission (SEC) says it needs additional time to decide on the crypto investment manager Grayscale’s proposal to launch an XRP exchange-traded fund (ETF). In January, the leading ETF exchange New York Stock Exchange (NYSE) Ar…
+
+Source: The Daily Hodl
+
+**Bitcoin, S&P 500 Struggle Below Key Technical Level in Sign of Further BTC Price Drops**
+
+Short-term bitcoin holders have sold over 100,000 BTC since February.
+
+Source: CoinDesk
+
+**11.2M times current price of MSTR, current market total value**
+
+Key Points Research suggests BlackRock owns approximately 11.26 million shares of MicroStrategy (MSTR), based on recent filings from early 2025. The evidence leans toward this number, but there may be slight variations due to share issuances and market activi…
+
+Source: Erickimphotography.com
+
+**Coldware Attracts New Asian Crowd For Presale as BTC and ETH Become Less Attractive To New Market Participants**
+
+As the cryptocurrency market continues to evolve, established players like Bitcoin (BTC) and Ethereum (ETH) are starting to face growing competition from emerging projects, especially for new market participants. While Bitcoin and Ethereum have long dominated…
+
+Source: ZyCrypto
+
+**Scenes from American Kleptocracy**
+
+Let’s check in on the Trump administration’s ongoing efforts to make corruption great again. Representatives of President Trump’s family have held talks to take a financial stake in the U.S. arm of crypto exchange Binance, according to people familiar with th…
+
+Source: Lawyersgunsmoneyblog.com
+
+**How many shares does blackrock own MSTR**
+
+Why does this Matter Key Points Research suggests Blackrock owns approximately 11.2 million shares of MicroStrategy (MSTR), based on recent filings from early 2025. The evidence leans toward this number, but there may be slight variations due to share issuanc…
+
+Source: Erickimphotography.com
+
+**MoonPay acquires API stablecoin infrastructure platform Iron**
+
+Cryptocurrency payments company MoonPay is expanding its presence in the enterprise stablecoin market with the acquisition of Iron, an API-focused stablecoin infrastructure developer, for an undisclosed amount. According to a March 13 announcement, the acquis…
+
+Source: Cointelegraph
+
+**MoonPay Buys Stablecoin Infrastructure Platform Iron in Latest M&A Deal**
+
+MoonPay Buys Stablecoin Infrastructure Platform Iron in Latest M&A Deal
+What to know:
+- MoonPay has bought API-focused stablecoin infrastructure platform Iron.
+- Financials of the transaction were not disclosed, but a report said the deal was worth at least $…
+
+Source: Biztoc.com
+
+**Argentina Requests Interpol Red Notice For LIBRA’s Hayden Davis**
+
+Argentina’s authorities are reportedly obtaining an Interpol Red Notice for Hayden Davis, the person responsible for the controversial LIBRA token. Related Reading: Crypto Banking Battle: Europe Outpaces US Amid Regulatory Chaos The case is in reaction to cha…
+
+Source: Bitcoinist
+
+**MoonPay Buys Stablecoin Infrastructure Platform Iron in Latest M&A Deal**
+
+MoonPay Buys Stablecoin Infrastructure Platform Iron in Latest M&A Deal
+
+Source: CoinDesk
+
+**Why this NBA star believes crypto can replace traditional banking**
+
+Tristan Thompson isn’t afraid to make bold moves—whether on the court or in the world of investments. The NBA star joined TheStreet to discuss why he's betting big on cryptocurrency.
+Related: NBA star Tristan Thompson launches basketball analytics tool
+Full V…
+
+Source: Biztoc.com
+
+**Why CFOs Considering Stablecoins and Crypto Need a Cybersecurity Strategy**
+
+Another day, another push by cryptocurrency into mainstream financial services.
+BNY is reportedly handling additional services for the USDC stablecoin issuer Circle, while in Brazil, online-only bank Stark Bank is reportedly aiming to serve the country’s cryp…
+
+Source: Biztoc.com
+
+**North Korea-linked APT group ScarCruft spotted using new Android spyware KoSpy**
+
+North Korea-linked APT group ScarCruft used a new Android spyware dubbed KoSpy to target Korean and English-speaking users. North Korea-linked threat actor ScarCruft (aka APT37, Reaper, and Group123) is behind a previously undetected Android surveillance tool…
+
+Source: Securityaffairs.com
+
+**Somnia Expands it's Ecosystem with 14 dApps Across DeFi, Gaming, AI, and Metaverse**
+
+New York, NY, March 13, 2025 (GLOBE NEWSWIRE) -- Somnia, the high-performance blockchain designed for fully on-chain applications, is unveiling its initial ecosystem of 14 decentralized applications (dApps) spanning DeFi, gaming, AI, social, metaverse and NFT…
+
+Source: GlobeNewswire
+
+**President Trump’s second term and cryptocurrency: Will bitcoin keep soaring as his family eyes a stake in Binance?**
+
+Donald Trump’s second term has ignited a massive crypto surge, with Bitcoin skyrocketing past $109,000 just before his inauguration. With his pro-crypto stance, the U.S. could become a global hub for blockchain innovation. Reports of Trump’s family discussing…
+
+Source: The Times of India
+
+**MoonPay Acquires Iron to Add Enterprise-Grade Stablecoin Solutions**
+
+Crypto payments company MoonPay said Thursday (March 13) that it expanded its enterprise offerings by acquiring API-first stablecoin infrastructure platform Iron. Iron’s application programming interfaces (APIs) provide solutions for enterprises; FinTechs and…
+
+Source: pymnts.com
+
+**Nvidia RTX 5080 stock is so barren that retailers are holding competitions where you can "win" the right to buy one for MSRP**
+
+An online retailer in India is hosting a competition where winners get to buy the cards
+
+Source: TechRadar
+
+**Bitcoin Reserves And The Incentives Of Civil Asset Forfeiture**
+
+An examination of the incentives created by structuring a Bitcoin reserve to hold seized coins with civil asset forfeiture existing. Yesterday, President Trump announced the long awaited Strategic “Bitcoin” Reserve on Truth Social, and many in the space are p…
+
+Source: Activistpost.com
+
+**Cryptocurrency’s transparency is a mirage: New research shows a small group of insiders influence its value**
+
+Crypto-believers often blame greedy financiers as the cause of the Great Recession, but crypto is not immune to these same risks.
+
+Source: The Conversation Africa
+
+**Professional Cryptocurrency Asset Recovery Services: Introducing Ruder Cyber Tec**
+
+Professional Cryptocurrency Asset Recovery Services: Introducing Ruder Cyber Tec - posted in Windows Crashes and Blue Screen of Death (BSOD) Help and Support: RUDER CYBER TECH SLEUTHS specializes in recovering lost cryptocurrency assets, including USDT and Bi…
+
+Source: BleepingComputer
+
+**Professional Cryptocurrency Asset Recovery Services: Introducing Ruder Cyber Tec**
+
+Professional Cryptocurrency Asset Recovery Services: Introducing Ruder Cyber Tec - posted in Windows Crashes and Blue Screen of Death (BSOD) Help and Support: RUDER CYBER TECH SLEUTHS specializes in recovering lost cryptocurrency assets, including USDT and Bi…
+
+Source: BleepingComputer
+
+**Utterly furious Democrat lambasts Elon Musk in powerful viral clip: ‘He’s not above the law’**
+
+Elon Musk has been criticised for failing to turn up to a US house of representatives committee meeting about his department’s oversight. Democrat John Larson lambasted the unelected tech billionaire, who was not present at the House Ways and Means Committee,…
+
+Source: Thepinknews.com
+
+**Trump family in talks for stake in crypto firm Binance: WSJ**
+
+Representatives of President Donald Trump's family have held discussions to acquire a financial stake in the US arm of cryptocurrency exchange Binance, while the company's founder seeks a presidential pardon, according to a Wall Street Journal report on Thurs…
+
+Source: The Times of India
+
+**Trump family in talks for deal with felon crypto billionaire seeking pardon: report**
+
+President Donald Trump's family is reportedly in talks to do business with a crypto billionaire as he seeks a pardon on felony charges.The Wall Street Street Journal reported that Trump's top Middle East negotiator, Steve Witkoff, was heading up the talks to …
+
+Source: Raw Story
+
+**Franklin Templeton files for an XRP ETF**
+
+Franklin Templeton has filed for an XRP ETF, joining the likes of Bitwise and Canary Capital. There is optimism that with the conclusion of the Ripple lawsuit, the SEC could approve the XRP ETFs. The question of XRP’s status as a security has cast a shadow ov…
+
+Source: Coinjournal.net
+
+**Microsoft Warns of ClickFix Phishing Campaign Targeting Hospitality Sector via Fake Booking[.]com Emails**
+
+Microsoft has shed light on an ongoing phishing campaign that targeted the hospitality sector by impersonating online travel agency Booking.com using an increasingly popular social engineering technique called ClickFix to deliver credential-stealing malware.
+…
+
+Source: Internet
+
+**Trump Family Hold Discussions For Stake In Crypto Firm Binance: Report**
+
+Representatives of President Donald Trump&#039;s family have held discussions to acquire a financial stake in the US arm of cryptocurrency exchange Binance, while the company&#039;s founder seeks a presidential pardon, according to a report.
+
+Source: NDTV News
+
+**XRP Whales Move Quickly To ExoraPad $EXP Presale Amid Ripple-SEC Developments**
+
+CORK, Ireland, March 13, 2025 (GLOBE NEWSWIRE) -- Excitement is building rapidly within the XRP community as Ripple inches closer to resolving its highly publicized lawsuit against the U.S. Securities and Exchange Commission (SEC). With Ripple expected to fil…
+
+Source: GlobeNewswire
+
+**Trump Family Considers Stake in Crypto Firm Guilty of Money Laundering**
+
+Donald Trump’s family members are in discussions to take a financial stake into Binance, a cryptocurrency firm that pleaded guilty in 2023 to money laundering. 
+Meanwhile, the company’s founder and largest shareholder, Changpeng Zhao, who served four months …
+
+Source: The New Republic
+
+**Trump family held deal talks with Binance as its billionaire crypto founder seeks pardon: report**
+
+Billionaire Changpeng Zhao stepped down as CEO of Binance and pleaded guilty to breaking US anti-money laundering laws as part of a $4.3 billion settlement
+
+Source: New York Post
+
+**Why CFOs Considering Stablecoins and Crypto Need a Cybersecurity Strategy**
+
+Another day, another push by cryptocurrency into mainstream financial services. BNY is reportedly handling additional services for the USDC stablecoin issuer Circle, while in Brazil, online-only bank Stark Bank is reportedly aiming to serve the country’s cryp…
+
+Source: pymnts.com
+
+**Bank of Russia’s elite crypto regime: Trading restricted only to millionaires?**
+
+Is Russia warming up to crypto—or just keeping it exclusive?
+
+Source: Ambcrypto.com
+
+**Crypto for Advisors: Memcoins**
+
+Memecoins have gained mainstream visibility recently. However, understanding what they are, how they work and where the risks are is critical.
+
+Source: CoinDesk
+
+**Coca enters US crypto market with Ramp Network**
+
+COCA, the next-generation crypto wallet designed with security and simplicity, has announced its strategic partnership with Ramp Network, a leading fiat-to-crypto on-ramp provider.
+
+Source: Finextra
+
+**Binance token rises following report that Trump family has discussed stake in the crypto exchange**
+
+Binance's BNB token bucked the wider crypto downturn on Thursday, jumping 4% following a Wall Street Journal report that the Trump family has held talks to secure a financial interest in the U.S. arm of the world's largest cryptocurrency exchange.
+Such a deal…
+
+Source: Biztoc.com
+
+**NCA officer charged following alleged Bitcoin theft**
+
+According to the force, the cryptocurrency was worth nearly £60,000 in 2017.
+
+Source: The-independent.com
+
+**Coinbase to halt FLOKI, TURBO, and Gigachad (GIGA) trading in New York**
+
+Coinbase will halt the trading of FLOKI, TURBO, and GIGA in New York on April 14, 2025. The decision sparked debate on accessibility and regulatory challenges for memecoins. FLOKI and GIGA prices have dropped, while the TURBO coin price has seen a modest surg…
+
+Source: Coinjournal.net
+
+**Understanding Bitcoin Price Trends and Market Influences**
+
+While it has undoubtedly made a name for itself, cryptocurrency is still a recent entrant to the broader economy. Numerous resources are available for tracking the rise and fall of crypto prices, but the average person doesn’t have the same understanding of t…
+
+Source: The Daily Caller
+
+**Trump Family In Talks To Acquire Stake In Binance As Former CEO Changpeng Zhao Pushes For Pardon**
+
+Members of President Donald Trump's family are in discussions to acquire a financial interest in Binance.US, the American branch of the world's top cryptocurrency exchange.
+What Happened: This potential deal coincides with efforts by Binance (CRYPTO: BNB) fou…
+
+Source: Biztoc.com
+
+**Binance token rises following report that Trump family has discussed stake in the crypto exchange**
+
+The Journal said Binance first approached Trump allies last year as part of a broader effort to regain access to the U.S. market.
+
+Source: CNBC
+
+**North Korea’s ScarCruft Deploys KoSpy Malware, Spying on Android Users via Fake Utility Apps**
+
+The North Korea-linked threat actor known as ScarCruft is said to have been behind a never-before-seen Android surveillance tool named KoSpy targeting Korean and English-speaking users.
+Lookout, which shared details of the malware campaign, said the earliest …
+
+Source: Internet
+
+**Experts warn of a coordinated surge in the exploitation attempts of SSRF vulnerabilities**
+
+Researchers warn of a “coordinated surge” in the exploitation attempts of SSRF vulnerabilities in multiple platforms. Threat intelligence firm GreyNoise observed Grafana path traversal exploitation attempts before the Server-Side Request Forgery (SSRF) surge …
+
+Source: Securityaffairs.com
+
+**XRP Spikes 4% As Ripple Gains Approval To Offer Crypto Payments In Dubai**
+
+Ripple (CRYPTO: XRP) on Thursday announced it has secured authorization from the Dubai Financial Services Authority (DFSA) to deliver regulated cryptocurrency payment services within the Dubai International Finance Centre (DIFC), becoming the first entity of …
+
+Source: Biztoc.com
+
+**Bitget Wallet Launches Solana Rent Recovery for Users to Reclaim Unused SOL**
+
+Bitget Wallet, a leading Web3 non-custodial wallet, has introduced the Solana Account Rent Recovery feature, allowing users to reclaim dormant SOL assets..
+
+Source: GlobeNewswire
+
+**BexBack Launches No KYC Crypto Trading, 100x Leverage, Double Deposit Bonus and $50 Welcome Bonus**
+
+SINGAPORE, March 13, 2025 (GLOBE NEWSWIRE) -- As Bitcoin's price dips below $80,000 once again, many analysts predict that it will enter a prolonged period of high volatility. In such a market environment, simply holding spot positions may not be an effective…
+
+Source: GlobeNewswire
+
+**Ripple Secures DFSA Licence to Offer Crypto Services to UAE Businesses, Financial Institutions**
+
+Ripple has announced that businesses in the UAE can now use its services to explore crypto payment options. The company has secured an approval from the Dubai Financial Services Authority (DFSA), allowing it to cater to the crypto needs of UAE-based businesse…
+
+Source: Gadgets360.com
+
+**Stablecoins Are a Vital Innovation That Risk Being Crushed by Misguided Fear**
+
+Rather than embracing innovation, Senator Elizabeth Warren pursues legislation that would smother stablecoins in their infancy.
+
+Source: CoinDesk
+
+**InvestorBrandNetwork (IBN) and CryptoCurrencyWire (CCW) Re-Engaged for Blockchain Futurist Conference, and ETHWomen in May 2025**
+
+NEW YORK, March 13, 2025 (GLOBE NEWSWIRE) -- CryptoCurrencyWire (CCW), one of more than 70 brands under InvestorBrandNetwork (IBN), today announced its re-engagement by the 7th Annual Blockchain Futurist Conference as an official newswire. IBN will also conti…
+
+Source: GlobeNewswire
+
+**Trump Family Held Talks to Buy Stake in Binance.US: WSJ**
+
+The talks began after Binance reached out to Trump allies last year to strike a deal for the exchange's return to the U.S, according to report.
+
+Source: CoinDesk
+
+**Moonacy Protocol adds Dogecoin (DOGE) to its ecosystem**
+
+London, UK , March 13, 2025 (GLOBE NEWSWIRE) -- Moonacy Protocol continues to expand its ecosystem by adding support for Dogecoin (DOGE). This means that users of the platform will be able to use DOGE for deposits, exchanges and withdrawals, expanding the ran…
+
+Source: GlobeNewswire
+
+**Binance CEO Richard Teng Hails Donald Trump's Bitcoin Reserve, XRP, Ethereum, Solana Digital Asset Stockpile**
+
+Binance CEO Richard Teng on Thursday expressed optimism that the pro-cryptocurrency policies introduced by U.S. President Donald Trump will inspire a wave of similar regulatory shifts worldwide.
+What Happened: Speaking at the CONVERGE LIVE event in Singapore …
+
+Source: Biztoc.com
+
+**Gate Card Silver Officially Launched: Experience Seamless Global Crypto Payments**
+
+PANAMA CITY, March 13, 2025 (GLOBE NEWSWIRE) -- Following its global expansion in crypto payment solutions since the 2023 debut of the Gate Card, Gate Group has now officially launched Gate Card Silver
+, a crypto card specifically designed for users in Argen…
+
+Source: GlobeNewswire
+
+**The Periodic Table of States**
+
+The org chart for a post-Westphalian world.
+
+Source: Foreign Policy
+
+**Solana (SOL) Retests Crucial Support Level – Is A 50% Price Drop On The Horizon?**
+
+Solana (SOL) has seen a nearly 40% retrace over the past month, losing key support levels since February. As its price retests a key horizontal level, some analysts warn of a potential 50% correction to a yearly low. Related Reading: Solana Falls Under Realiz…
+
+Source: newsBTC
+
+**Wallet in Telegram to list 50 tokens and launch yield program**
+
+Wallet in Telegram, a third-party cryptocurrency wallet Mini App on Telegram, is set to expand its custodial crypto services, adding at least 50 new cryptocurrencies and launching an earn feature for users.The Open Platform (TOP), the largest venture builder …
+
+Source: Cointelegraph
+
+**New Cryptocurrency Coins to Flourish as Coinbase Partners With 145 US Government Agencies**
+
+Coinbase, the third largest crypto exchange with over 4M weekly visits, has joined forces with 145 US government agencies, which signals bullish times for new cryptocurrency.  The CEXs ultimate goal is to help more international governments trade, manage, and…
+
+Source: Bitcoinist
+
