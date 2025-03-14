@@ -1,5 +1,4 @@
-
-const apiKey = process.env.NEWSAPI_KEY;
+const ; // Utiliser la clé API fournie si la variable d'environnement n'est pas définie
 const url = `https://newsapi.org/v2/everything?q=cryptocurrency&sortBy=publishedAt&apiKey=${apiKey}`;
 
 async function fetchNews() {
@@ -11,6 +10,8 @@ async function fetchNews() {
     const response = await fetch(url);
     const data = await response.json();
     
+    console.log('API Response:', data); // Log the full API response
+
     if (!response.ok) {
       throw new Error(`API Error: ${data.message || 'Unknown error'}`);
     }
