@@ -1,4 +1,4 @@
-const ; // Utiliser la clé API fournie si la variable d'environnement n'est pas définie
+const apiKey = process.env.NEWSAPI_KEY || 'b345c8822c324de09d6c5c8ab3389809'; // Utiliser la clé API fournie si la variable d'environnement n'est pas définie
 const url = `https://newsapi.org/v2/everything?q=cryptocurrency&sortBy=publishedAt&apiKey=${apiKey}`;
 
 async function fetchNews() {
