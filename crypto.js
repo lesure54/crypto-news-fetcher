@@ -1,6 +1,6 @@
 const apiKey = process.env.NEWSAPI_KEY || 'b345c8822c324de09d6c5c8ab3389809'; // Utiliser la clé API fournie si la variable d'environnement n'est pas définie
 const newsUrl = `https://newsapi.org/v2/everything?q=cryptocurrency&sortBy=publishedAt&apiKey=${apiKey}`;
-const hnUrl = 'http://hn.algolia.com/api/v1/items/:id';
+const hnUrl = 'http://hn.algolia.com/api/v1/search?query=cryptocurrency&tags=story';
 const fs = require('fs');
 const nodemailer = require('nodemailer');
 
@@ -86,6 +86,12 @@ async function fetchHackerNews() {
 }
 
 async function sendEmail(content) {
+  // Skip email sending if credentials are not set
+  if (!process.env.EMAIL_USER || !process.env.EMAIL_PASS) {
+    console.log('Email credentials not set - skipping email send');
+    return;
+  }
+
   let transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
