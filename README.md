@@ -8,4 +8,4 @@ Crypto News Fetcher est un script JavaScript qui utilise l'API NewsAPI pour réc
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/USERNAME/crypto-news-fetcher.git
+   git clone https://github.com/Gaelaram/crypto-news-fetcher/
