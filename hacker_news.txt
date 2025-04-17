@@ -1,0 +1,120 @@
+**Facebook reveals its cryptocurrency Libra**
+
+URL: https://decrypt.co/7502/facebook-libra-coin-cryptocurrency-launch-calibra
+
+Author: timcc50
+
+**MasterCard to open up network to cryptocurrencies**
+
+URL: https://www.reuters.com/article/us-crypto-currency-mastercard/mastercard-to-open-up-network-to-select-cryptocurrencies-idUSKBN2AA2WF
+
+Author: ArtTimeInvestor
+
+**It's time for us in the tech world to speak out about cryptocurrency**
+
+URL: https://twitter.com/Pinboard/status/1399058952336277505
+
+Author: cratermoon
+
+**PayPal to allow cryptocurrency buying, selling and shopping on its network**
+
+URL: https://www.reuters.com/article/paypal-cryptocurrency/paypal-to-allow-cryptocurrency-buying-selling-and-shopping-on-its-network-idINL1N2HB14U
+
+Author: epaga
+
+**Statement on Cryptocurrencies and Initial Coin Offerings**
+
+URL: https://www.sec.gov/news/public-statement/statement-clayton-2017-12-11
+
+Author: corbinpage
+
+**Former Coinbase PM charged in cryptocurrency insider trading tipping scheme**
+
+URL: https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme
+
+Author: tempsy
+
+**Google bans cryptocurrency ads**
+
+URL: https://support.google.com/adwordspolicy/answer/7648803
+
+Author: em3rgent0rdr
+
+**Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards**
+
+URL: https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/
+
+Author: wglb
+
+**A faster, more efficient cryptocurrency**
+
+URL: http://news.mit.edu/2019/vault-faster-more-efficient-cryptocurrency-0124
+
+Author: salvadormon
+
+**Show HN: Cost of a 51% Attack on Popular Cryptocurrencies**
+
+URL: https://www.crypto51.app
+
+Author: xur17
+
+**Norton is installing a Cryptocurrency miner called Norton Crypto (NCrypt.exe)**
+
+URL: https://twitter.com/mAxius/status/1476968324672204801
+
+Author: decrypt
+
+**Facebook is banning all ads promoting cryptocurrencies**
+
+URL: https://www.recode.net/2018/1/30/16950926/facebook-mark-zuckerberg-bans-crypto-advertising-bitcoin-james-altucher
+
+Author: imartin2k
+
+**Signal adds a payments feature with a privacy-focused cryptocurrency**
+
+URL: https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/
+
+Author: josh2600
+
+**Paypal Withdraws from Facebook's Libra Cryptocurrency**
+
+URL: https://www.cnbc.com/2019/10/04/paypal-withdraws-from-facebooks-libra-cryptocurrency.html
+
+Author: coloneltcb
+
+**Analyzing Cryptocurrencies Using PostgreSQL**
+
+URL: https://blog.timescale.com/analyzing-ethereum-bitcoin-and-1200-cryptocurrencies-using-postgresql-3958b3662e51
+
+Author: akulkarni
+
+**I am often asked if I will “return to cryptocurrency”**
+
+URL: https://twitter.com/ummjackson/status/1415353984617914370
+
+Author: null_object
+
+**Rent out GPUs to AI researchers and make ~2x more than mining cryptocurrencies**
+
+URL: https://www.reddit.com/r/gpumining/comments/86ofw2/_/
+
+Author: mparramon
+
+**Hard Problems in Cryptocurrency: Five Years Later**
+
+URL: https://vitalik.ca/general/2019/11/22/progress.html
+
+Author: feross
+
+**$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin**
+
+URL: https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html
+
+Author: awb
+
+**Things cryptocurrency enthusiasts probably won't tell you**
+
+URL: http://www.ofnumbers.com/2017/09/21/eight-things-cryptocurrency-enthusiasts-probably-wont-tell-you/
+
+Author: pfraze
+
